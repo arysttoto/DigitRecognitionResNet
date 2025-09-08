@@ -142,3 +142,4 @@ This project is open source and available under the MIT License.
 - PyTorch team for the excellent framework
 - Apple for MPS GPU acceleration support
 - ResNet paper authors for the architecture design
+- GPT for helping with commenting code and adding markdowns. 
